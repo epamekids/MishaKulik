@@ -1,0 +1,38 @@
+.demo-layout-transparent {
+  background: url('file:///C:/Users/Misha/Desktop/Misha/GitHub/test_MishaKulik/1.jpg') center / cover;
+}
+.demo-layout-transparent .mdl-layout__header,
+.demo-layout-transparent .mdl-layout__drawer-button {
+  /* This background is dark, so we set text to white. Use 87% black instead if
+     your background is light. */
+  color: white;
+}
+.demo-card-wide.mdl-card {
+  width: 512px;
+}
+
+.demo-card-wide > .mdl-card__menu {
+  color: #fff;
+}
+#title1 {
+	 height: 250px;
+  width: 500px;
+	background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNX8p_oT6SlzmDhhKiZ4D9VQA0u5_1D8Q_iUqz3TZ_EcaU-en5')
+}
+#title2 {
+  height: 250px;
+  width: 500px;
+    background: url('https://fdlx.com/wp-content/uploads/8-chelovek-vladeyut-tretyu-vsex-deneg-na-zemle.jpg')
+}	
+#card1 {
+	float: left;
+  margin-top: 100px;
+    margin-left: 50px;
+  background:	#FFFFFF
+}
+#card2 {
+	float: right;
+	margin-top: 100px;
+    margin-right: 50px;
+  background:	#FFFFFF
+}

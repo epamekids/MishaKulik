@@ -1,0 +1,43 @@
+.demo-layout-transparent {
+  background: url('file:///C:/Users/Misha/Desktop/Misha/GitHub/test_MishaKulik/1.jpg') center / cover;
+}
+.demo-layout-transparent .mdl-layout__header,
+.demo-layout-transparent .mdl-layout__drawer-button {
+  /* This background is dark, so we set text to white. Use 87% black instead if
+     your background is light. */
+  color: white;
+}
+.demo-card-wide.mdl-card {
+  width: 512px;
+}
+.demo-card-wide > .mdl-card__title {
+  color: #000000;
+  height: 176px;
+}
+.demo-card-wide > .mdl-card__menu {
+  color: #000000;
+}
+
+
+body {
+  background: #fafafa;
+  position: relative;
+}
+#card1 {
+	float: right;
+	margin-top: 100px;
+    margin-right: 50px;
+  background:	#FFFFFF	
+}
+#card2 {
+	float: left;
+	margin-top: 100px;
+    margin-left: 50px;
+}
+#title1 {
+	
+	background: url('http://s1.iconbird.com/ico/2013/12/539/w256h2561387214964Phone2.png') 
+}
+#title2 {
+ background: url('https://siteblogger.ru/wp-content/uploads/2013/04/prvk-group-m.jpg') center / cover;	
+}

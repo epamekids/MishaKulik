@@ -1,0 +1,19 @@
+.demo-layout-transparent {
+  background: url('file:///C:/Users/Misha/Desktop/Misha/GitHub/test_MishaKulik/1.jpg') center / cover;
+}
+.demo-layout-transparent .mdl-layout__header,
+.demo-layout-transparent .mdl-layout__drawer-button {
+  /* This background is dark, so we set text to white. Use 87% black instead if
+     your background is light. */
+  color: white;
+}
+#title_of_sate {
+    margin-right: 120px;
+	margin-top:250px;
+	font-size:64pt;
+}
+#11{
+	
+	margin-top:45;
+	margin-left:45;
+}

@@ -1,0 +1,115 @@
+.demo-layout-transparent {
+  background: url('file:///C:/Users/Misha/Desktop/Misha/GitHub/test_MishaKulik/1.jpg') center / cover;
+  background-repeat: repeat;
+}
+body{
+	 background: url('file:///C:/Users/Misha/Desktop/Misha/GitHub/test_MishaKulik/1.jpg') center / cover;
+     background-repeat: repeat;
+
+}
+.demo-layout-transparent .mdl-layout__header,
+.demo-layout-transparent .mdl-layout__drawer-button {
+  /* This background is dark, so we set text to white. Use 87% black instead if
+     your background is light. */
+  color: white;
+}
+.demo-card-wide.mdl-card {
+  width: 512px;
+}
+
+.demo-card-wide > .mdl-card__menu {
+  color: #fff;
+}
+#title1 {
+	 height: 250px;
+  width: 500px;
+	background: url('без_названия__2_.XGH0j.jpg')center / cover;
+}
+#title2 {
+  height: 250px;
+  width: 500px;
+    background: url('без_названия__1_.VHkam.jpg')center / cover;
+}	
+#title3 {
+	 height: 250px;
+  width: 500px;
+	background: url('без_названия__3_.lN7nR.jpg')center / cover;
+}
+#title4 {
+	 height: 250px;
+  width: 500px;
+	background: url('images__1_.qOeis.jpg')center / cover;
+}
+#title5 {
+	 height: 250px;
+  width: 500px;
+	background: url('images__2_.cPaq3.jpg')center / cover;
+}
+#title6 {
+	 height: 250px;
+  width: 500px;
+	background: url('images__3_.DibY4.jpg')center / cover;
+}
+#title7 {
+	 height: 250px;
+  width: 500px;
+	background: url('images (4).jpg')center / cover;
+}
+#title8 {
+	 height: 250px;
+  width: 500px;
+	background: url('Без названия (4).jpg')center / cover;
+}
+#card1 {
+	float: left;
+  margin-top: 100px;
+    margin-left: 50px;
+  background:	#FFFFFF
+}
+#card2 {
+	float: right;
+	margin-top: 100px;
+    margin-right: 50px;
+  background:	#FFFFFF
+}
+#card3 {
+	float: left;
+	margin-top: 100px;
+    margin-left: 50px;
+  background:	#FFFFFF
+}
+#card4 {
+	float: right;
+	margin-top: 100px;
+    margin-right: 50px;
+  background:	#FFFFFF
+}
+#card5 {
+	float: left;
+	margin-top: 100px;
+    margin-left: 50px;
+  background:	#FFFFFF
+}
+#card6 {
+	float: right;
+	margin-top: 100px;
+    margin-right: 50px;
+  background:	#FFFFFF
+}
+#card7 {
+	float: left;
+	margin-top: 100px;
+    margin-left: 50px;
+  background:	#FFFFFF
+}
+#card8 {
+	float: right;
+	margin-top: 100px;
+    margin-right: 50px;
+  background:	#FFFFFF
+}
+#btn_click{
+	
+vertical-align:bottom;
+	
+}

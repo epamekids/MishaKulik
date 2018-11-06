@@ -1,0 +1,41 @@
+#card1 {
+	float: left;
+  margin-top: 100px;
+    margin-left: 50px;
+  background:	#FFFFFF
+}
+#card2 {
+	float: right;
+	margin-top: 100px;
+    margin-right: 50px;
+  background:	#FFFFFF
+}
+#card3 {
+	float: right;
+		margin-top: 200px;
+    margin-right: 130px;
+  background:	#FFFFFF
+}
+#title1 {
+	 height: 250px;
+  width: 500px;
+	background: url('https://vesta-mir.ru/d/5447689_2.jpg')
+}
+#title2 {
+  height: 250px;
+  width: 500px;
+    background: url('https://vesta-mir.ru/d/5447689_2.jpg')
+}	
+body {
+background:url("file:///C:/Users/Misha/Desktop/Misha/GitHub/test_MishaKulik/1.jpg")	 center / cover
+	
+}
+.demo-layout-transparent {
+  background: url('file:///C:/Users/Misha/Desktop/Misha/GitHub/test_MishaKulik/1.jpg') center / cover;
+}
+.demo-layout-transparent .mdl-layout__header,
+.demo-layout-transparent .mdl-layout__drawer-button {
+  /* This background is dark, so we set text to white. Use 87% black instead if
+     your background is light. */
+  color: white;
+}
